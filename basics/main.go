@@ -6,4 +6,5 @@ import (
 
 func main() {
 	fmt.Println("First program in Golang")
+	testCode("nayan")
 }
